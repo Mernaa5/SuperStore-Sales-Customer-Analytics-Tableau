@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+https://public.tableau.com/views/SalesDashboardDynamic_17616868599230/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Developed two interactive Tableau dashboards to analyze SuperStore's sales performance, profitability, customer behavior, and year-over-year growth in 2023 compared with 2022.
 
 The project provides insights into business performance, sales trends, product subcategories, customer purchasing patterns, and customer profitability.
